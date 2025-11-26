@@ -1,0 +1,9 @@
+timeapi:
+  timezone: "Etc/UCT"
+  url: "http://worldtimeapi.org/api/timezone"
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: test
